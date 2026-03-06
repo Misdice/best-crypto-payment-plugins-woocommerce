@@ -79,8 +79,7 @@ An established gateway since 2014 with a strong focus on compliance and fiat set
 **Custodial:** Yes
 **Plugin:** [wordpress.org/plugins/coinbase-commerce](https://wordpress.org/plugins/coinbase-commerce/)
 
-Backed by one of the most recognized names in crypto. Supports BTC, ETH, USDC, DAI, LTC, DOGE, and a few others. The WordPress plugin is maintained by [Misdice](https://github.com/misdice).
-
+Backed by one of the most recognized names in crypto. Supports BTC, ETH, USDC, DAI, LTC, DOGE, and a few others.
 **Pros:**
 - High brand trust, customers recognize Coinbase
 - Free for USDC payments
